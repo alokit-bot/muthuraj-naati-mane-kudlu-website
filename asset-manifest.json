@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/muthuraj-naati-mane-kudlu-website/static/css/main.221b7779.css",
+    "main.js": "/muthuraj-naati-mane-kudlu-website/static/js/main.9d3da94f.js",
+    "index.html": "/muthuraj-naati-mane-kudlu-website/index.html",
+    "main.221b7779.css.map": "/muthuraj-naati-mane-kudlu-website/static/css/main.221b7779.css.map",
+    "main.9d3da94f.js.map": "/muthuraj-naati-mane-kudlu-website/static/js/main.9d3da94f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221b7779.css",
+    "static/js/main.9d3da94f.js"
+  ]
+}
